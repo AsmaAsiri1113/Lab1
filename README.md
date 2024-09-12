@@ -1,2 +1,4 @@
 # Lab1
-This is my first repoository I created by my self 
+This is the first repository I created by myself 
+
+let's create something new. and  commit the changes. 
